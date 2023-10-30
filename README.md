@@ -1,6 +1,8 @@
 IDS706_DataEngineering_BarbaraFlores_Miniproject9
 ## 📂  Cloud-Hosted Notebook Data Manipulation
 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/179ts2vZp2tiNUdrdmwqWjtOkkjcuAkfY?usp=sharing)
+
 This repository contains the instructions and a link for a cloud-hosted Jupyter Notebook that demonstrates data manipulation tasks on a sample dataset as part of the requirements for Week 9 of the course.
 
 ## Requirements
