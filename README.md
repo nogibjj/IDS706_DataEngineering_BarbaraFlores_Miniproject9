@@ -1,7 +1,7 @@
 IDS706_DataEngineering_BarbaraFlores_Miniproject9
 ## 📂  Cloud-Hosted Notebook Data Manipulation
 
-This repository contains a cloud-hosted Jupyter Notebook that demonstrates data manipulation tasks on a sample dataset as part of the requirements for Week 9 of the course.
+This repository contains the instructions and a link for a cloud-hosted Jupyter Notebook that demonstrates data manipulation tasks on a sample dataset as part of the requirements for Week 9 of the course.
 
 ## Requirements
 
