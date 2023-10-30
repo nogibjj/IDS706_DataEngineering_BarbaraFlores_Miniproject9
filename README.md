@@ -19,13 +19,17 @@ In this project, we will perform data analysis using the "Penguins" dataset. The
 This dataset contains valuable information about different penguin species, including details about their size, weight, and geographical regions. Through data engineering techniques and data analysis, we will explore and extract meaningful insights from this dataset to gain a deeper understanding of these fascinating seabirds
 
 
-## How to Access the Notebook
+## How to Access and Run the Notebook
+This notebook provides a hands-on demonstration of data manipulation tasks on a sample dataset. To access and run the cloud-hosted notebook for this project, please follow these steps:
 
-To access and review the cloud-hosted notebook for this project, click on the following link:
+1. Click on the following link to open the notebook in Google Colab: View Notebook.     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/179ts2vZp2tiNUdrdmwqWjtOkkjcuAkfY?usp=sharing)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/179ts2vZp2tiNUdrdmwqWjtOkkjcuAkfY?usp=sharing)
+2. Once the notebook is loaded in Google Colab, you can navigate through the cells and interact with the code and text.
 
+3. To execute a code cell, simply click on the cell and press the "Play" button or use the keyboard shortcut Shift+Enter.
 
+4. You can also add, modify, or annotate the code and text cells as needed to experiment with the analysis tasks.
 
+5. After running the notebook, you can save your changes to your Google Drive or download the notebook to your local machine.
 
 
