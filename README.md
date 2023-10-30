@@ -26,14 +26,16 @@ This notebook provides a hands-on demonstration of data manipulation tasks on a 
 2. Once the notebook is loaded in Google Colab, you can navigate through the cells and interact with the code and text.
 
 3. To execute a code cell, simply click on the cell and press the "Play" button or use the keyboard shortcut Shift+Enter.
+   
 ![Screen Shot 2023-10-29 at 23 52 37](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject9/assets/143648839/17119789-2962-444f-b0bf-ebd46e69ed21)
 
 
-4. If you want to run all cells in the notebook, you can do so by selecting "Runtime" in the Colab menu and then choosing "Run All."
+5. If you want to run all cells in the notebook, you can do so by selecting "Runtime" in the Colab menu and then choosing "Run All."
+6. 
 <img width="648" alt="Screen Shot 2023-10-29 at 23 55 54" src="https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject9/assets/143648839/28d063da-f16d-4b3f-91e2-96121191a094">
 
-5. You can also add, modify, or annotate the code and text cells as needed to experiment with the analysis tasks.
+7. You can also add, modify, or annotate the code and text cells as needed to experiment with the analysis tasks.
 
-6. After running the notebook, you can save your changes to your Google Drive or download the notebook to your local machine.
+8. After running the notebook, you can save your changes to your Google Drive or download the notebook to your local machine.
 
 
