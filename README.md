@@ -21,7 +21,7 @@ This dataset contains valuable information about different penguin species, incl
 ## How to Access and Run the Notebook
 This notebook provides a hands-on demonstration of data manipulation tasks on a sample dataset. To access and run the cloud-hosted notebook for this project, please follow these steps:
 
-1. Click on the following link to open the notebook in Google Colab: View Notebook.     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/179ts2vZp2tiNUdrdmwqWjtOkkjcuAkfY?usp=sharing)
+1. Click on the following link to open the notebook in Google Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/179ts2vZp2tiNUdrdmwqWjtOkkjcuAkfY?usp=sharing)
 
 2. Once the notebook is loaded in Google Colab, you can navigate through the cells and interact with the code and text.
 
