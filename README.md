@@ -32,9 +32,8 @@ This notebook provides a hands-on demonstration of data manipulation tasks on a 
 4. If you want to run all cells in the notebook, you can do so by selecting "Runtime" in the Colab menu and then choosing "Run All."
 <img width="648" alt="Screen Shot 2023-10-29 at 23 55 54" src="https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject9/assets/143648839/28d063da-f16d-4b3f-91e2-96121191a094">
 
+5. You can also add, modify, or annotate the code and text cells as needed to experiment with the analysis tasks.
 
-6. You can also add, modify, or annotate the code and text cells as needed to experiment with the analysis tasks.
-
-7. After running the notebook, you can save your changes to your Google Drive or download the notebook to your local machine.
+6. After running the notebook, you can save your changes to your Google Drive or download the notebook to your local machine.
 
 
