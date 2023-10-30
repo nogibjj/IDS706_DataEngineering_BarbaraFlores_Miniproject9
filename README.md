@@ -16,8 +16,7 @@ To complete this assignment, the following tasks were carried out:
 
 In this project, we will perform data analysis using the "Penguins" dataset. The "Penguins" dataset is a collection of data about penguins, gathered by marine ecologist Dr. Kristen Gorman and her team on Torgersen Island near the Palmer Station of the United States Antarctic Program. This research was conducted as part of a long-term study on seabird populations in the Antarctic Peninsula region.
 
-This dataset contains valuable information about different penguin species, including details about their size, weight, and geographical regions. Through data engineering techniques and data analysis, we will explore and extract meaningful insights from this dataset to gain a deeper understanding of these fascinating seabirds
-
+This dataset contains valuable information about different penguin species, including details about their size, weight, and geographical regions. Through data engineering techniques and data analysis, we will explore and extract meaningful insights from this dataset to gain a deeper understanding of these fascinating seabirds. The "Penguins" dataset contains 344 rows (observations) and 7 columns (attributes).
 
 ## How to Access and Run the Notebook
 This notebook provides a hands-on demonstration of data manipulation tasks on a sample dataset. To access and run the cloud-hosted notebook for this project, please follow these steps:
