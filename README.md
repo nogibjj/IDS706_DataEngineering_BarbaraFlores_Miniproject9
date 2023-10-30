@@ -27,12 +27,13 @@ This notebook provides a hands-on demonstration of data manipulation tasks on a 
 
 3. To execute a code cell, simply click on the cell and press the "Play" button or use the keyboard shortcut Shift+Enter.
    
-![Screen Shot 2023-10-29 at 23 52 37](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject9/assets/143648839/17119789-2962-444f-b0bf-ebd46e69ed21)
+![Screen Shot 2023-10-29 at 23 52 37](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject9/assets/143648839/64be12e3-0deb-4437-ab24-e0ae08b0f756)
 
 
 5. If you want to run all cells in the notebook, you can do so by selecting "Runtime" in the Colab menu and then choosing "Run All."
-6. 
-<img width="648" alt="Screen Shot 2023-10-29 at 23 55 54" src="https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject9/assets/143648839/28d063da-f16d-4b3f-91e2-96121191a094">
+   
+ <img width="648" alt="Screen Shot 2023-10-29 at 23 55 54" src="https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject9/assets/143648839/1c1356ef-d0a0-488e-b671-f3dea405e298">
+
 
 7. You can also add, modify, or annotate the code and text cells as needed to experiment with the analysis tasks.
 
