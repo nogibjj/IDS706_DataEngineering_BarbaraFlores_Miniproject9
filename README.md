@@ -14,8 +14,6 @@ To complete this assignment, the following tasks were carried out:
 
 To access and review the cloud-hosted notebook for this project, click on the following link:
 
-[View Notebook](https://colab.research.google.com/drive/179ts2vZp2tiNUdrdmwqWjtOkkjcuAkfY?usp=sharing)
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/179ts2vZp2tiNUdrdmwqWjtOkkjcuAkfY?usp=sharing)
 
 
