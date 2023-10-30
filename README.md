@@ -1,45 +1,40 @@
-
-[![CI](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject9/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject9/actions/workflows/cicd.yml)
-
 IDS706_DataEngineering_BarbaraFlores_Miniproject9
 ## 📂  Cloud-Hosted Notebook Data Manipulation
 
 
+# Week 9: Cloud-Hosted Notebook Data Manipulation
+
+This repository contains a cloud-hosted Jupyter Notebook that demonstrates data manipulation tasks on a sample dataset as part of the requirements for Week 9 of the course.
+
 ## Requirements
 
-- Set up a cloud-hosted Jupyter Notebook (e.g., Google Colab).
-- Perform data manipulation tasks on a sample dataset.
+To complete this assignment, the following tasks were carried out:
+
+1. Set up a cloud-hosted Jupyter Notebook (Google Colab).
+2. Performed data manipulation tasks on a sample dataset.
 
 ## Grading Criteria
 
-### Setup and Configuration (20 points)
-- Ensures the cloud-hosted Jupyter Notebook is correctly configured and accessible.
-- Provides clear instructions for accessing the notebook.
+The project is evaluated based on the following criteria:
 
-### Data Manipulation Tasks (20 points)
-- Performs data manipulation tasks on the sample dataset.
-- Demonstrates skills in data manipulation using Python libraries such as Pandas and NumPy.
+- Setup and configuration (20 points)
+- Data manipulation tasks (20 points)
 
 ## Deliverables
 
-- Link to the cloud-hosted notebook, e.g., Google Colab.
-- A document or video demonstrating the tasks performed.
+The deliverables for this project include:
 
-## Instructions
+- [Link to the cloud-hosted notebook](https://colab.research.google.com/drive/179ts2vZp2tiNUdrdmwqWjtOkkjcuAkfY?usp=sharing)
 
-### Setup and Access to the Notebook
+## How to Access the Notebook
 
-1. They have hosted the Jupyter Notebook in the cloud for this task, and you can access it by following this link: [Link to Jupyter Notebook on Google Colab](insert_your_link_here).
+To access and review the cloud-hosted notebook for this project, click on the following link:
 
-2. Ensure you are logged in with your Google account to be able to edit and run the notebook.
+[View Notebook](https://colab.research.google.com/drive/179ts2vZp2tiNUdrdmwqWjtOkkjcuAkfY?usp=sharing)
 
-### Data Manipulation Tasks
+## Demonstration
 
-In the cloud-hosted Jupyter Notebook, you will find a sample dataset. Be sure to follow the instructions and carry out the data manipulation tasks as required in the assignment. Python libraries like Pandas and NumPy can be used to perform these tasks.
+For a detailed demonstration of the tasks performed, please refer to the document or video provided.
 
-## Demonstration of Tasks Performed
-
-In addition to the Jupyter Notebook itself, they request a document or a video that demonstrates the tasks performed in the notebook. Screen recording tools can be used to capture actions and explanations while working in the notebook. This will help evaluators understand how the tasks were carried out and what results were obtained.
-
-
+Thank you for reviewing this project!
 
